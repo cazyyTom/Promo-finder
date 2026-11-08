@@ -1,0 +1,149 @@
+[
+  {
+    "rank": 1,
+    "segments": [
+      {
+        "episode": 3,
+        "start_cs": 3910,
+        "end_cs": 9080,
+        "event_ids": [
+          "E003-B003",
+          "E003-B004",
+          "E003-B005",
+          "E003-B006",
+          "E003-B007",
+          "E003-B008",
+          "E003-B009",
+          "E003-B010",
+          "E003-B011",
+          "E003-B012",
+          "E003-B013"
+        ],
+        "start": "00:39.10",
+        "end": "01:30.80"
+      }
+    ],
+    "total_seconds": 51.7,
+    "hook": {
+      "event_id": "E003-B004",
+      "description": "The judge ordered the murder.",
+      "lands_at_seconds": 2.1
+    },
+    "cliffhanger": {
+      "event_id": "E003-B011",
+      "open_question": "Why is the sister with the judge?"
+    },
+    "why_it_works": "A woman exposes a judge who threatens her family.",
+    "scores": {
+      "hook": 5,
+      "cliffhanger": 5,
+      "clarity": 4,
+      "weighted": 4.75
+    },
+    "evidence": {
+      "hook": "E003-B004",
+      "clarity": "E003-B004",
+      "cliffhanger": "E003-B011"
+    },
+    "flags": [],
+    "answered_later": null
+  },
+  {
+    "rank": 2,
+    "segments": [
+      {
+        "episode": 1,
+        "start_cs": 3900,
+        "end_cs": 9080,
+        "event_ids": [
+          "E001-B003",
+          "E001-B004",
+          "E001-B005",
+          "E001-B006",
+          "E001-B007",
+          "E001-B008",
+          "E001-B009",
+          "E001-B010",
+          "E001-B011",
+          "E001-B012",
+          "E001-B013"
+        ],
+        "start": "00:39.00",
+        "end": "01:30.80"
+      }
+    ],
+    "total_seconds": 51.8,
+    "hook": {
+      "event_id": "E001-B004",
+      "description": "The judge ordered the murder.",
+      "lands_at_seconds": 2.2
+    },
+    "cliffhanger": {
+      "event_id": "E001-B011",
+      "open_question": "Why is the sister with the judge?"
+    },
+    "why_it_works": "A woman exposes a judge who threatens her family.",
+    "scores": {
+      "hook": 5,
+      "cliffhanger": 5,
+      "clarity": 4,
+      "weighted": 4.75
+    },
+    "evidence": {
+      "hook": "E001-B004",
+      "clarity": "E001-B004",
+      "cliffhanger": "E001-B011"
+    },
+    "flags": [],
+    "answered_later": null
+  },
+  {
+    "rank": 3,
+    "segments": [
+      {
+        "episode": 2,
+        "start_cs": 3900,
+        "end_cs": 9080,
+        "event_ids": [
+          "E002-B003",
+          "E002-B004",
+          "E002-B005",
+          "E002-B006",
+          "E002-B007",
+          "E002-B008",
+          "E002-B009",
+          "E002-B010",
+          "E002-B011",
+          "E002-B012",
+          "E002-B013"
+        ],
+        "start": "00:39.00",
+        "end": "01:30.80"
+      }
+    ],
+    "total_seconds": 51.8,
+    "hook": {
+      "event_id": "E002-B004",
+      "description": "The judge ordered the murder.",
+      "lands_at_seconds": 2.2
+    },
+    "cliffhanger": {
+      "event_id": "E002-B011",
+      "open_question": "Why is the sister with the judge?"
+    },
+    "why_it_works": "A woman exposes a judge who threatens her family.",
+    "scores": {
+      "hook": 5,
+      "cliffhanger": 5,
+      "clarity": 4,
+      "weighted": 4.75
+    },
+    "evidence": {
+      "hook": "E002-B004",
+      "clarity": "E002-B004",
+      "cliffhanger": "E002-B011"
+    },
+    "flags": [],
+    "answered_later": null
+  }
+]

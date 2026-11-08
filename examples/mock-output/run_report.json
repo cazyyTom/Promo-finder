@@ -1,0 +1,40 @@
+{
+  "files_received": 3,
+  "episodes_parsed": 3,
+  "episodes_analyzed": 3,
+  "episodes_failed": 0,
+  "failures": [],
+  "parse_reports": [
+    {
+      "filename": "episode-001-Episode 1671703.txt",
+      "warnings": [],
+      "errors": []
+    },
+    {
+      "filename": "episode-002-Episode 1671704.txt",
+      "warnings": [],
+      "errors": []
+    },
+    {
+      "filename": "episode-003-Episode 1671705.txt",
+      "warnings": [],
+      "errors": []
+    }
+  ],
+  "candidates_generated": 12,
+  "candidates_rejected": 0,
+  "rejected_by_reason": {},
+  "candidates_eligible": 12,
+  "deduplicated": 9,
+  "promos_returned": 3,
+  "model_calls": 39,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "runtime_seconds": 0.287,
+  "model_ids": {
+    "discovery": "mock-no-network",
+    "judge": "mock-no-network",
+    "embedding": "mock-no-network"
+  },
+  "prompt_version": "2026-11-07.v1"
+}

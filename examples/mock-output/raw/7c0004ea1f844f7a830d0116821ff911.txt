@@ -1,0 +1,1 @@
+{"hooks": [{"event_id": "E003-B004", "strength": 5, "what_audience_learns_or_sees": "The judge ordered the murder."}], "endings": [{"event_id": "E003-B011", "open_question": "Why is the sister with the judge?", "answer_event_id": null}]}

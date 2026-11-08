@@ -1,0 +1,72 @@
+:root {
+  color-scheme: dark;
+  --page: #0b0b09;
+  --sidebar: #11110e;
+  --panel: #171713;
+  --panel-hover: #202019;
+  --text: #f3f1e6;
+  --muted: #a3a398;
+  --subtle: #8e8e86;
+  --accent: #f2d31b;
+  --accent-hover: #ffe44d;
+  --accent-low: #8a7a1b;
+  --accent-high: #ffe94d;
+  --border: rgba(255, 255, 255, 0.065);
+  --border-strong: rgba(255, 255, 255, 0.13);
+  --gold-line: rgba(242, 211, 27, 0.23);
+  --gold-soft: rgba(242, 211, 27, 0.07);
+  --gold-glow: rgba(242, 211, 27, 0.11);
+  --amber: #f3bd64;
+  --amber-bg: rgba(243, 189, 100, 0.07);
+  --red: #ff9c96;
+  --red-bg: rgba(255, 110, 100, 0.08);
+  --black: #000;
+  --overlay: rgba(0, 0, 0, 0.7);
+  --transparent: transparent;
+  --orb-dark: #242501;
+  --orb-mid: #807615;
+  --orb-light: #fff786;
+  --orb-glow: rgba(224, 212, 20, 0.22);
+  --font: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+  --r-dot: 1px;
+  --r-micro: 4px;
+  --r-bubble: 5px;
+  --r-icon: 8px;
+  --r-compact: 9px;
+  --r-logo: 10px;
+  --r-tight: 16px;
+  --r-circle: 50%;
+  --r-none: 0;
+  --r-window: 28px;
+  --r-card: 24px;
+  --r-panel: 20px;
+  --r-small: 12px;
+  --r-pill: 9999px;
+  --shadow-orb:
+    inset -3px -3px 9px var(--accent-low), inset 3px 3px 4px var(--orb-light),
+    0 0 28px var(--gold-glow);
+  --shadow-orb-ring: 0 0 7px var(--accent), inset 0 0 8px var(--accent-low);
+  --shadow-particle: 0 0 9px var(--accent);
+  --shadow-card: 0 12px 48px rgba(0, 0, 0, 0.15);
+  --shadow-menu: 0 16px 50px rgba(0, 0, 0, 0.55);
+  --shadow-gold: 0 0 45px rgba(242, 211, 27, 0.055);
+  --focus: 0 0 0 3px rgba(242, 211, 27, 0.45);
+}
+@theme inline {
+  --color-page: var(--page);
+  --color-sidebar: var(--sidebar);
+  --color-panel: var(--panel);
+  --color-primary: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-border: var(--border);
+  --color-amber: var(--amber);
+  --color-danger: var(--red);
+  --font-sans: var(--font);
+  --font-mono: var(--mono);
+  --radius-window: var(--r-window);
+  --radius-card: var(--r-card);
+  --radius-panel: var(--r-panel);
+  --shadow-gold: var(--shadow-gold);
+}

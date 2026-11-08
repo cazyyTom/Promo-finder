@@ -1,0 +1,602 @@
+[
+  {
+    "id": "0f8a7a1587f0f2e2d23254c8",
+    "segments": [
+      {
+        "episode": 1,
+        "start_cs": 3900,
+        "end_cs": 8370,
+        "event_ids": [
+          "E001-B003",
+          "E001-B004",
+          "E001-B005",
+          "E001-B006",
+          "E001-B007",
+          "E001-B008",
+          "E001-B009",
+          "E001-B010",
+          "E001-B011"
+        ],
+        "start": "00:39.00",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E001-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E001-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "756afaf28c1b67c29af66e2e",
+    "segments": [
+      {
+        "episode": 3,
+        "start_cs": 3910,
+        "end_cs": 8370,
+        "event_ids": [
+          "E003-B003",
+          "E003-B004",
+          "E003-B005",
+          "E003-B006",
+          "E003-B007",
+          "E003-B008",
+          "E003-B009",
+          "E003-B010",
+          "E003-B011"
+        ],
+        "start": "00:39.10",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E003-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E003-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "7a3e10330f4bbcc9fbf9e367",
+    "segments": [
+      {
+        "episode": 1,
+        "start_cs": 3910,
+        "end_cs": 9080,
+        "event_ids": [
+          "E001-B003",
+          "E001-B004",
+          "E001-B005",
+          "E001-B006",
+          "E001-B007",
+          "E001-B008",
+          "E001-B009",
+          "E001-B010",
+          "E001-B011",
+          "E001-B012",
+          "E001-B013"
+        ],
+        "start": "00:39.10",
+        "end": "01:30.80"
+      }
+    ],
+    "hook": {
+      "event_id": "E001-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E001-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "803164fe97aa95cff8ddecea",
+    "segments": [
+      {
+        "episode": 3,
+        "start_cs": 3900,
+        "end_cs": 8370,
+        "event_ids": [
+          "E003-B003",
+          "E003-B004",
+          "E003-B005",
+          "E003-B006",
+          "E003-B007",
+          "E003-B008",
+          "E003-B009",
+          "E003-B010",
+          "E003-B011"
+        ],
+        "start": "00:39.00",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E003-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E003-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "8d391ce34ec6ad981bcfa92c",
+    "segments": [
+      {
+        "episode": 3,
+        "start_cs": 3900,
+        "end_cs": 9080,
+        "event_ids": [
+          "E003-B003",
+          "E003-B004",
+          "E003-B005",
+          "E003-B006",
+          "E003-B007",
+          "E003-B008",
+          "E003-B009",
+          "E003-B010",
+          "E003-B011",
+          "E003-B012",
+          "E003-B013"
+        ],
+        "start": "00:39.00",
+        "end": "01:30.80"
+      }
+    ],
+    "hook": {
+      "event_id": "E003-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E003-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E003-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E003-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "a1c7b56fbd9e02b0e930f043",
+    "segments": [
+      {
+        "episode": 2,
+        "start_cs": 3900,
+        "end_cs": 8370,
+        "event_ids": [
+          "E002-B003",
+          "E002-B004",
+          "E002-B005",
+          "E002-B006",
+          "E002-B007",
+          "E002-B008",
+          "E002-B009",
+          "E002-B010",
+          "E002-B011"
+        ],
+        "start": "00:39.00",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E002-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E002-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "be6937c32fde214514c138c1",
+    "segments": [
+      {
+        "episode": 2,
+        "start_cs": 3910,
+        "end_cs": 8370,
+        "event_ids": [
+          "E002-B003",
+          "E002-B004",
+          "E002-B005",
+          "E002-B006",
+          "E002-B007",
+          "E002-B008",
+          "E002-B009",
+          "E002-B010",
+          "E002-B011"
+        ],
+        "start": "00:39.10",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E002-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E002-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "d4916f5591c99b259b1e57e7",
+    "segments": [
+      {
+        "episode": 1,
+        "start_cs": 3910,
+        "end_cs": 8370,
+        "event_ids": [
+          "E001-B003",
+          "E001-B004",
+          "E001-B005",
+          "E001-B006",
+          "E001-B007",
+          "E001-B008",
+          "E001-B009",
+          "E001-B010",
+          "E001-B011"
+        ],
+        "start": "00:39.10",
+        "end": "01:23.70"
+      }
+    ],
+    "hook": {
+      "event_id": "E001-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E001-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E001-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E001-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  },
+  {
+    "id": "ff01cd5794f89932ece56a6e",
+    "segments": [
+      {
+        "episode": 2,
+        "start_cs": 3910,
+        "end_cs": 9080,
+        "event_ids": [
+          "E002-B003",
+          "E002-B004",
+          "E002-B005",
+          "E002-B006",
+          "E002-B007",
+          "E002-B008",
+          "E002-B009",
+          "E002-B010",
+          "E002-B011",
+          "E002-B012",
+          "E002-B013"
+        ],
+        "start": "00:39.10",
+        "end": "01:30.80"
+      }
+    ],
+    "hook": {
+      "event_id": "E002-B004",
+      "what_audience_learns_or_sees": "The judge ordered the murder.",
+      "strength": 5
+    },
+    "ending": {
+      "event_id": "E002-B011",
+      "open_question": "Why is the sister with the judge?",
+      "answer_event_id": null
+    },
+    "status": "deduplicated",
+    "reject_reason": [],
+    "flags": [],
+    "judge": {
+      "hook": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "clarity": {
+        "pass": true,
+        "score": 4,
+        "evidence_event_id": "E002-B004",
+        "reason": "Fixed mock verdict for wiring verification."
+      },
+      "cliffhanger": {
+        "pass": true,
+        "score": 5,
+        "evidence_event_id": "E002-B011",
+        "reason": "Fixed mock verdict for wiring verification.",
+        "open_question": "Why is the sister with the judge?"
+      },
+      "viewer_summary": "A woman exposes a judge who threatens her family.",
+      "clarity_missing_context": false
+    },
+    "lookahead": {
+      "answered": false,
+      "answer_event_id": null,
+      "reason": "Fixed mock; not a narrative assessment."
+    },
+    "weighted": 4.75,
+    "answered_later": null
+  }
+]

@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+data/
+outputs/
+requirements.txt
+tests/
+pytest.ini
+START_HERE.md
+VALIDATION.md
